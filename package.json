@@ -1,0 +1,30 @@
+{
+  "name": "base-url",
+  "version": "0.0.0",
+  "description": "Returns the \"base URL\" of the `document`",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/base-url.git"
+  },
+  "keywords": [
+    "browser",
+    "document",
+    "base",
+    "url",
+    "origin",
+    "location"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/base-url/issues"
+  },
+  "homepage": "https://github.com/webmodules/base-url",
+  "devDependencies": {
+    "zuul": "^2.1.1"
+  }
+}
