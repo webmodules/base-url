@@ -1,6 +1,6 @@
 {
   "name": "base-url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns the \"base URL\" of the `document`",
   "main": "index.js",
   "scripts": {
